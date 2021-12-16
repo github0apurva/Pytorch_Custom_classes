@@ -1,3 +1,7 @@
+# This Repo contains few useful Loss function and schedulers in Pytorch
+
+
+
 # How to use Learning Rate Scheduler for cosine annealing with warm restarts? 
 
 ![LR](https://dataiku.gbx.novartis.net/dip/api/projects/wikis/get-uploaded-file/LR.png?projectKey=DS_AI_INNOV_CODES&uploadId=iuuJSfSR9Qj7)
