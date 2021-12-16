@@ -1,4 +1,4 @@
-# This Repo contains few useful Loss function and schedulers in Pytorch
+# This Repo contains few useful Optimizers, Loss function, schedulers and utilities in Pytorch
 
 
 
